@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Aplikasi_Konversi</string>
+    <string name="panjang_prompt">Pilih Panjang</string>
+    <string-array name="units">
+        <item>Inch</item>
+        <item>Centimeter</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Meter</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string name="suhu_prompt">Pilih Suhu</string>
+    <string-array name="suhu_arrays">
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Reamur</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string name="berat_prompt">Pilih Berat</string>
+    <string-array name="berat_arrays">
+        <item>Ton</item>
+        <item>Kwintal</item>
+        <item>Kilogram</item>
+        <item>gram</item>
+        <item>Pon</item>
+        <item>Ons</item>
+    </string-array>
+
+</resources>

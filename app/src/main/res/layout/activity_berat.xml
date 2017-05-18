@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hva.aplikasikonversi.Berat">
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        android:padding="16dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerberat_from"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:prompt="@string/berat_prompt"
+            android:entries="@array/berat_arrays"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:id="@+id/editTextberat_from"
+            android:layout_below="@+id/spinnerberat_from"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerberat_to"
+            android:layout_below="@+id/editTextberat_from"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:prompt="@string/berat_prompt"
+            android:entries="@array/berat_arrays"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:cursorVisible="false"
+            android:ems="10"
+            android:id="@+id/editTextberat_to"
+            android:layout_below="@+id/spinnerberat_to"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Convert"
+            android:id="@+id/buttonberat_convert"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="convert" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
