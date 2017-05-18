@@ -1,0 +1,4 @@
+#Tue May 16 23:14:43 ICT 2017
+base.0=E\:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

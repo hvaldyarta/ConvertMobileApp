@@ -194,4 +194,22 @@ public class Konversi {
         }
     }
 
+    //KONVERSI BILANGAN
+    public enum UnitBilangan{
+        BINER, DESIMAL, HEXADESIMAL, OCTAL;
+
+        // Helper method to convert text to one of the above constants
+        public static UnitBilangan fromString(String text) {
+            if (text != null) {
+                for (UnitBilangan unitbil : UnitBilangan.values()) {
+                    if (text.equalsIgnoreCase(unitbil.toString())) {
+                        return unitbil;
+                    }
+                }
+            }
+
+            throw new IllegalArgumentException("Cannot find a value for " + text);
+        }
+    }
+
 }
