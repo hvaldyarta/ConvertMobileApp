@@ -1,10 +1,18 @@
 [
     {
-        "merged": "E:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\HVA\\.android\\build-cache\\ea282d9570469b1ffae3ac5e2ca563021bb8a43c\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/nield/ConvertMobileApp/E:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/nield/ConvertMobileApp/C:\\Users\\HVA\\.android\\build-cache\\ea282d9570469b1ffae3ac5e2ca563021bb8a43c\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "E:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\HVA\\.android\\build-cache\\ea282d9570469b1ffae3ac5e2ca563021bb8a43c\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/nield/ConvertMobileApp/E:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/nield/ConvertMobileApp/C:\\Users\\HVA\\.android\\build-cache\\ea282d9570469b1ffae3ac5e2ca563021bb8a43c\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/nield/ConvertMobileApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/nield/.android/build-cache/4372b05e254127d45695add3829bcec269783517/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/nield/ConvertMobileApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/nield/.android/build-cache/4372b05e254127d45695add3829bcec269783517/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

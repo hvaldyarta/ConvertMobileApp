@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="E:\Kuliah\Semester 6\Pemrograman Mobile\FP\AplikasiKonversi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/home/nield/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="E:\Kuliah\Semester 6\Pemrograman Mobile\FP\AplikasiKonversi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88fba39be3a471ed9646516352d88fcc430adaaf\classes.dex" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_dd02f265520c39c70a236df549dfc6483d3c8d50/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Kuliah\Semester 6\Pemrograman Mobile\FP\AplikasiKonversi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/home/nield/.android/build-cache/4372b05e254127d45695add3829bcec269783517/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="3e00fc058058dcf8ff0034ba263b69e687544554">
-        <dex dex="E:\Kuliah\Semester 6\Pemrograman Mobile\FP\AplikasiKonversi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_94a5b83f76378629972cd8729e1c918948d80e81\classes.dex" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62fdb3f6c85d3834fcb6e1579e0674850401d679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/b9f9ca51f8faa1866d90dd8f59bfc161c3f07ad0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_659a335471f7cd18fa96654540e991a026bf0753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/82446ef773829231aa8707497df07719efcab896/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c5c8eb02b0e3610f83f1c1a097542f9e21a9557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/49fe55ef2f6091c73ab04de7d6f7adde6cc785a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cd8834481dd5e4533199bbd52ffe4808ca9050a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/1ee1e9d78dc3a4ec76565e5702e98d4a0e6e83ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77a964d9d0701090371445803d7cffc8669982db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/ConvertMobileApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b80b8423c878c29cc8c96bbc44972cf0be8bd00f">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ab42bca6c6716e914b2603b79d3d7f3af74dc07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/64d37a574c99cd920844d23f41fd1c378c82f05e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b88993c4d9e0207b1fc8f499ea4d2e356786f38f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/ConvertMobileApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_613b518264387047c062beba711c69c2ff4239c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/796d0c4b2d23d52c137c1cdd14fd4647b74fbc3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3517f042c0cf322da57f17eafbc0b0d4bfd163d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/06eb64d3e499f87e3ad3c30b8b20a9c9781925b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e983e874d03e645c3f39f5480f853ae398b808a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/139b395c19373e15a3735828c7101151deef7b4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22e21404ddef98fb886c3208cc89e60ac46cfbe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/.android/build-cache/ef45aa1614b46955c4d351242c07adf05d3ff7c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1b9d480a85fc1ce31bdc5a4da08e22a8ac66c0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nield/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4a7b2653cd6b7c3834f96790399bec8063ece955/classes.dex" />
     </item>
 
 </items>

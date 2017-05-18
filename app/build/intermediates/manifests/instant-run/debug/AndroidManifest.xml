@@ -14,9 +14,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/launcher_con"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/launcher_con"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.hva.aplikasikonversi.MainActivity" >
@@ -29,10 +29,12 @@
         <activity android:name="com.example.hva.aplikasikonversi.Panjang" />
         <activity android:name="com.example.hva.aplikasikonversi.Suhu" />
         <activity android:name="com.example.hva.aplikasikonversi.Berat" />
+        <activity android:name="com.example.hva.aplikasikonversi.Bilangan" />
 
-        <service
-            android:name="com.android.tools.fd.runtime.InstantRunService"
-            android:exported="true" />
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.hva.aplikasikonversi.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

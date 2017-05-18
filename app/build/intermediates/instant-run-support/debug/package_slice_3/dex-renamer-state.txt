@@ -1,4 +1,4 @@
-#Tue May 16 23:06:37 ICT 2017
-base.0=E\:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+#Fri May 19 02:06:18 WIB 2017
+base.0=/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
 renamed.0=classes.dex
-file.0=E\:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
+file.0=/home/nield/ConvertMobileApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex

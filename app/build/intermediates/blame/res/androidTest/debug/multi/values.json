@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/nield/ConvertMobileApp/E:\\Kuliah\\Semester 6\\Pemrograman Mobile\\FP\\AplikasiKonversi\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\HVA\\.android\\build-cache\\707de2a241020b67be7188e2cb625e44c0c4cf94\\output\\res\\values\\values.xml",
+                    "file": "/home/nield/ConvertMobileApp/C:\\Users\\HVA\\.android\\build-cache\\707de2a241020b67be7188e2cb625e44c0c4cf94\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/nield/ConvertMobileApp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/nield/.android/build-cache/19aafde5cb2cbb07716bc6d078170e6593ee7b23/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
