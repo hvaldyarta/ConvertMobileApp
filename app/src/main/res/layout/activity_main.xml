@@ -4,13 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     tools:context="com.example.hva.aplikasikonversi.MainActivity">
 
     <Button
         android:id="@+id/button"
-        android:layout_width="395dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="8dp"
+        android:layout_marginLeft="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="146dp"
         android:text="Suhu"
@@ -19,9 +20,9 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="395dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="8dp"
+        android:layout_marginLeft="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="231dp"
         android:text="Panjang"
@@ -30,9 +31,9 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="395dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="8dp"
+        android:layout_marginLeft="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="321dp"
         android:text="Berat"

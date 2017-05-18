@@ -29,4 +29,12 @@
         <item>Ons</item>
     </string-array>
 
+    <string name="bilangan_prompt">Pilih Bilangan</string>
+    <string-array name="bilangan_arrays">
+        <item>Biner</item>
+        <item>Desimal</item>
+        <item>Hexadesimal</item>
+        <item>Octal</item>
+    </string-array>
+
 </resources>
